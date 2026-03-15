@@ -1,0 +1,10 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+flask
+tqdm  #也许你也不知道分词进度呢 没错这个工具就是显示进度的 你会喜欢的
+matplotlib
+seaborn
+jieba
