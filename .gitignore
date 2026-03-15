@@ -1,16 +1,28 @@
-"# Python 缓存" 
-"__pycache__/" 
-"*.pyc" 
-"# 数据集和模型文件" 
-"data/raw/" 
-"data/processed/*.csv" 
-"*.pth" 
-"# 虚拟环境" 
-"env/" 
-"venv/" 
-".env/" 
-"# IDE 配置" 
-".vscode/" 
-".idea/" 
-"# Jupyter 笔记本检查点" 
-".ipynb_checkpoints/" 
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 数据集和模型文件
+data/raw/
+data/processed/*.csv
+*.pth
+
+# 生成的图片/报告
+*.png
+*.html
+
+# 虚拟环境
+env/
+venv/
+.env/
+
+# IDE 配置
+.vscode/
+.idea/
+
+# Jupyter 笔记本检查点
+.ipynb_checkpoints/
+
+# 其他临时文件
+*.log
+.DS_Store
