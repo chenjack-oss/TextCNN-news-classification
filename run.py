@@ -1,4 +1,5 @@
 import argparse
+import os
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='新闻文本分类系统')
